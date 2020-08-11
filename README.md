@@ -5,7 +5,7 @@ Contents
   Know_Doc.pdf
   CDInventory.py
   
-Know_Doc.pdf - Knowledge Document
+Assignment_05.doc - Knowledge Document
   Documention of learnings for Module 05
   Explanations for coding choices in CDInventory.py
   Images showing CDInventory working in Spyder IDE and Terminal
