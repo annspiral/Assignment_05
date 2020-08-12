@@ -2,10 +2,10 @@
 Foundations of Programming - Python, Assignment 05
 
 Contents
-  Know_Doc.pdf
+  Assignment05.pdf
   CDInventory.py
   
-Assignment_05.doc - Knowledge Document
+Assignment_05.pdf - Knowledge Document
   Documention of learnings for Module 05
   Explanations for coding choices in CDInventory.py
   Images showing CDInventory working in Spyder IDE and Terminal
